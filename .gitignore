@@ -1,0 +1,10 @@
+# Ignored directories
+.idea/
+node_modules/
+.vc/
+
+# Ignored files
+.DS_Store
+Thumbs.db
+dektop.ini
+package-lock.json
